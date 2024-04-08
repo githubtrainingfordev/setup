@@ -3,7 +3,7 @@
 - Class Date: April 8-9, Mahajan
 - Facilitator: @Parul
 
-## Class Resources
+## Class Resource
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
