@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: April 8-9
+- Class Date: April 8-9, Mahajan
 - Facilitator: @Parul
 
 ## Class Resources
