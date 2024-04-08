@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: April 8-9
+- Facilitator: @Parul
 
 ## Class Resources
 
